@@ -1,6 +1,8 @@
 # JSON Tree Viewer
 A simple interactive JSON Tree Viewer implemented with HTML, CSS, and jQuery.
 
+![Screenshot](./screeshot.png)
+
 ## Features
 - Visualizes JSON objects and arrays in a tree view structure.
 - Interactive toggling of children nodes.
