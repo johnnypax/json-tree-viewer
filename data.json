@@ -1,0 +1,51 @@
+{
+    "utenti": [
+      {
+        "nome": "Mario",
+        "cognome": "Rossi",
+        "eta": 32,
+        "indirizzo": {
+          "via": "Via Roma",
+          "numero": 12,
+          "citta": "Roma"
+        },
+        "hobbies": ["calcio", "musica", "viaggi"]
+      },
+      {
+        "nome": "Luca",
+        "cognome": "Bianchi",
+        "eta": 28,
+        "indirizzo": {
+          "via": "Corso Umberto",
+          "numero": 22,
+          "citta": "Milano"
+        },
+        "hobbies": ["lettura", "cucina"]
+      }
+    ],
+    "prodotti": [
+      {
+        "id": 101,
+        "nome": "Telefono",
+        "categoria": "Elettronica",
+        "prezzo": 599.99
+      },
+      {
+        "id": 102,
+        "nome": "Libro",
+        "categoria": "Libri",
+        "prezzo": 12.99,
+        "autore": "A. Manzoni"
+      }
+    ],
+    "configurazione": {
+      "tema": "chiaro",
+      "lingua": "IT",
+      "notifiche": true,
+      "sottoscrizioni": [
+        "newsletter",
+        "aggiornamenti"
+      ]
+    }
+  }
+  
